@@ -1,0 +1,24 @@
+{
+  "name": "josh",
+  "version": "1.0.0",
+  "description": "bamazon hw",
+  "main": "bamazonCust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLDiebel/BAMAZON.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLDiebel/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/JLDiebel/BAMAZON#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.1",
+    "mysql": "^2.13.0"
+  }
+}
