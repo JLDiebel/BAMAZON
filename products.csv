@@ -1,11 +1,11 @@
 item_id,product_name,department_name,price,stock_qty
 1,Flubber,Toys,300.00,1
-2,"Senzu Beans",Nutrition,99.00,44
-3,"6-finger gloves",Apparel,6.00,3
+2,Senzu Beans,Nutrition,99.00,44
+3,6-finger gloves,Apparel,6.00,3
 4,Boomerang,Toys,10.00,8
 5,Ooze,Nutrition,1000.00,3
 6,Monocle,Apparel,50.00,7
-7,"Hover Board",Toys,450.00,10
-8,"Fire Flower",Nutrition,68.00,5
+7,Hover Board,Toys,450.00,10
+8,Fire Flower,Nutrition,68.00,5
 9,Nunchucks,Tools,22.00,6
-10,"Throwing Stars",Tools,3.00,333
+10,Throwing Stars,Tools,3.00,333
